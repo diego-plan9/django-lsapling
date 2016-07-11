@@ -1,0 +1,10 @@
+.project
+.pydevproject
+.settings
+*.pyc
+
+django_lsapling.egg-info/
+tests/.coverage
+tests/htmlcov/
+tests/local_settings.py
+
